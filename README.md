@@ -15,7 +15,7 @@ _Welcome to "Hello there in GitHub Actions!" :wave:_
 - The GitHub Actions feature page, see [GitHub Actions](https://github.com/features/actions)...!
 - The "GitHub Actions" user documentation, see [GitHub Actions](https://docs.github.com/actions)...!
 
-**What is a _workflow_??**: A workflow is a configurable automated process that will run one or more jobs. Workflows are defined in special files in the `.github/workflows` directory and they execute based on your chosen event. For this exercise, we'll use a `pull_request` event.
+**What is a _workflow_??**: A workflow is a configurable automated process that will run one or more jobs. Workflows are defined in special files in the `.github/workflows` directory and they execute based on your chosen event. For this exercise, we'll use a `pull_request` event...!
 
 - To read more about workflows, jobs, and events, see "[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)".
 - If you want to learn more about the `pull_request` event before using it, see "[pull_request](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#pull_request)".
