@@ -33,7 +33,7 @@ To get you started, we ran an Actions workflow in your new repository that, amon
 1. From the **main** branch dropdown, click on the **welcome-workflow** branch...
 1. Navigate to the `.github/workflows/` folder, then select **Add file** and click on **Create new file**.
 1. In the **Name your file** field, enter `welcome.yml`.
-1. Add the following content to the `welcome.yml` file::
+1. Add the following content to the `welcome.yml` file:-
 
    ```yaml copy
    name: Post welcome comment
