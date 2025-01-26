@@ -36,7 +36,7 @@ To get you started, we ran an Actions workflow in your new repository that, amon
 1. Add the following content to the `welcome.yml` file -
 
    ```yaml copy
-   name: Post welcome comment
+   name: Post welcome comment📬
    on:
      pull_request:
        types: [opened]
